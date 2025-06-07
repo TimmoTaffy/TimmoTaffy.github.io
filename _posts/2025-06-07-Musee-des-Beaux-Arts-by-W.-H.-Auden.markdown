@@ -34,4 +34,4 @@ had somewhere to get to and sailed calmly on.
 
 <br>
 <br>
-*I took the College Entrance Exam on this day last year. Months before that spot, I encountered this poem, and read it to some others.*
+*I took the College Entrance Exam on this day last year. Months before that spot, I encountered this poem and shared it with some others.*
