@@ -9,28 +9,29 @@ categories: computer-unrelated
 
 by W. H. Auden
 
-About suffering they were never wrong,··
-The Old Masters; how well, they understood··
-Its human position; how it takes place··
-While someone else is eating or opening a window or just walking dully along;··
-How，when the aged are reverently, passionately waiting··
-For the miraculous birth, there always must be··
-Children who did not specially want it to happen, skating··
-On a pond at theedge of the wood:··
-They never forgot··
-That even the dreadful martyrdom must run its course··
-Anyhow in a corner, some untidy spot··
-Where the dogs go on with their doggy life and the torturer's horse··
-Scratches its innocent behind on a tree.··
+About suffering they were never wrong,<br>
+The Old Masters; how well, they understood<br>
+Its human position; how it takes place<br>
+While someone else is eating or opening a window or just walking dully along;<br>
+How，when the aged are reverently, passionately waiting<br>
+For the miraculous birth, there always must be<br>
+Children who did not specially want it to happen, skating<br>
+On a pond at theedge of the wood:<br>
+They never forgot<br>
+That even the dreadful martyrdom must run its course<br>
+Anyhow in a corner, some untidy spot<br>
+Where the dogs go on with their doggy life and the torturer's horse<br>
+Scratches its innocent behind on a tree.<br>
 
-In Breughel's Icarus, for instance: how everything turns away··
-Quite leisurely from the disaster；the ploughman may··
-Have heard the splash, the forsaken cry,··
-But for him it was not an important failure; the sun shone··
-As it had to on the white legs disappearing into the green··
-Water; and the expensive delicate ship that must have seen··
-Something amazing, a boy falling out of the sky,··
+In Breughel's Icarus, for instance: how everything turns away<br>
+Quite leisurely from the disaster；the ploughman may<br>
+Have heard the splash, the forsaken cry,<br>
+But for him it was not an important failure; the sun shone<br>
+As it had to on the white legs disappearing into the green<br>
+Water; and the expensive delicate ship that must have seen<br>
+Something amazing, a boy falling out of the sky,<br>
 had somewhere to get to and sailed calmly on.
 
-··
+<br>
+<br>
 *I took the College Entrance Exam on this day last year. Months before that spot, I encountered this poem, and read it to some others.*
