@@ -2,7 +2,7 @@
 layout: post
 title:  "一句话"
 date:   2022-11-26 10:13:00 +0800
-categories: writing
+categories: computer-unrelated
 ---
 
 ## 一句话

@@ -2,7 +2,7 @@
 layout: post
 title:  "Hi y'all!"
 date:   2025-06-07 16:00:00 +0800
-categories: just chat
+categories: computer-unrelated
 ---
 
 ## Hello from the other side!
