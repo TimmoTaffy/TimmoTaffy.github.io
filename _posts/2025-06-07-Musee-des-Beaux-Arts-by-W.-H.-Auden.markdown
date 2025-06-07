@@ -9,8 +9,6 @@ categories: computer-unrelated
 
 by W. H. Auden
 
-*I took the College Entrance Exam on this day last year. Months before that spot, I encountered this poem, and read it to some others.*
-
 About suffering they were never wrong,··
 The Old Masters; how well, they understood··
 Its human position; how it takes place··
@@ -33,3 +31,6 @@ As it had to on the white legs disappearing into the green··
 Water; and the expensive delicate ship that must have seen··
 Something amazing, a boy falling out of the sky,··
 had somewhere to get to and sailed calmly on.
+
+
+*I took the College Entrance Exam on this day last year. Months before that spot, I encountered this poem, and read it to some others.*
