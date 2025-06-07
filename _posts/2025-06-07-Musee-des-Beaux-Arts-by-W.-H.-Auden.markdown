@@ -37,5 +37,4 @@ had somewhere to get to and sailed calmly on.
 *I took the College Entrance Exam on this day last year. Months before that spot, I encountered this poem and shared it with some others.*
 
 <br>
-
-There's a line from *The Legend of 1900*: "You're never really done for as long as you've got a good story and someone to tell it to." This poem has undoubtedly inspired several  good conversations and brought about some nice stories. And later on, those conversations themselves naturally became new stories. This is how time exists and folds.
+*There's a line from The Legend of 1900: "You're never really done for as long as you've got a good story and someone to tell it to." This poem has undoubtedly inspired several  good conversations and brought about some nice stories. And later on, those conversations themselves naturally became new stories. This is how time exists and folds.*
