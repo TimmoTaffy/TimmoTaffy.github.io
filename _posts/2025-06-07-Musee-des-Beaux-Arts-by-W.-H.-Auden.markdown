@@ -7,7 +7,7 @@ categories: computer-unrelated
 
 ## Musee des Beaux Arts
 
-by W. H. Auden
+*by W. H. Auden*
 
 About suffering they were never wrong,<br>
 The Old Masters; how well, they understood<br>
