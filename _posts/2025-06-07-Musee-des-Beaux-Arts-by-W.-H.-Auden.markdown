@@ -24,7 +24,7 @@ Where the dogs go on with their doggy life and the torturer's horse<br>
 Scratches its innocent behind on a tree.<br>
 
 In Breughel's Icarus, for instance: how everything turns away<br>
-Quite leisurely from the disaster；the ploughman may<br>
+Quite leisurely from the disaster; the ploughman may<br>
 Have heard the splash, the forsaken cry,<br>
 But for him it was not an important failure; the sun shone<br>
 As it had to on the white legs disappearing into the green<br>
@@ -36,4 +36,4 @@ had somewhere to get to and sailed calmly on.
 <br>
 *I took the College Entrance Exam on this day last year. Months before that spot, I encountered this poem and shared it with some others.*
 
-*There's a line from The Legend of 1900: "You're never really done for as long as you've got a good story and someone to tell it to." This poem has undoubtedly inspired several  good conversations and brought about some nice stories. And later on, those conversations themselves naturally became new stories. This is how time exists and folds.*
+*There's a line: "You're never really done for as long as you've got a good story and someone to tell it to." This poem has undoubtedly inspired several  good conversations and brought about some nice stories. And later on, those conversations themselves naturally became new stories. This is how time exists and folds.*
