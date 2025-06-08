@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Your life in art"
-date:   2025-05-13 22:40:00 +0000
+date:   2025-05-13 22:40:00 +0800
 categories: computer-unrelated
 ---
 

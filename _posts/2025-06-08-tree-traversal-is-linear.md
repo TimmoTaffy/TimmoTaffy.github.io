@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tree Traversal is O(n) - Don't Overcomplicate It"
-date:   2025-06-08 10:50:00 +0000
+date:   2025-06-08 10:50:00 +0800
 categories: computer-related
 ---
 
