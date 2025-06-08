@@ -21,7 +21,7 @@
 title: Timmo's Blog
 email: timmotaffy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog created on 2025 June 7th, a rainy Saturday, beginning of a new season.
+  Blog created on 2025 June 7th. Rainy Saturday. Beginning of a new season.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://timmotaffy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TimmoTaffy
