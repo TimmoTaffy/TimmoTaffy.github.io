@@ -9,3 +9,6 @@ Contact me on Twitter using @TimmoTaffy
 
 ## GitHub
 Contact me on GitHub using TimmoTaffy
+
+## Email
+Contact me via TimmoTaffy@gmail.com
