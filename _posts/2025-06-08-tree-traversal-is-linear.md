@@ -33,4 +33,8 @@ TreeTraversal(node):
 Don't be confused by the loop inside the recursion. In essence the recursion ensures that every node is processed once and only once, that's it - no hidden multiplicative factor, just a clean, linear pass through the structure.
 
 <br>
-> Tree traversal is O(n). Don't overcomplicate it.
+> Tree traversal is O(n). Don't overcomplicate it. 
+<br>
+<br>
+> They say recursion has more readability.  
+> But it seems to me a hall of mirrors.  
