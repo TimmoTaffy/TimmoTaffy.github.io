@@ -5,6 +5,5 @@ date:   2022-11-26 10:13:00 +0800
 categories: computer-unrelated
 ---
 
-## 一句话
 
 “当成开始而不是完成，超越其实是可能的”
