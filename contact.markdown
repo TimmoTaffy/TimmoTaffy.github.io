@@ -12,3 +12,6 @@ Contact me on GitHub using TimmoTaffy
 
 ## Email
 Contact me via TimmoTaffy@gmail.com
+
+## Instagram
+Pictures, words, other daily stuff, @timmotaffy
