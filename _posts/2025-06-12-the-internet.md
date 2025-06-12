@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On the Internet"
+title:  "The Internet"
 date:   2025-06-12 14:15:00 +0800
 categories: computer-unrelated
 ---
