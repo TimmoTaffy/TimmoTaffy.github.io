@@ -13,7 +13,7 @@ About suffering they were never wrong,<br>
 The Old Masters; how well, they understood<br>
 Its human position; how it takes place<br>
 While someone else is eating or opening a window or just walking dully along;<br>
-How，when the aged are reverently, passionately waiting<br>
+How, when the aged are reverently, passionately waiting<br>
 For the miraculous birth, there always must be<br>
 Children who did not specially want it to happen, skating<br>
 On a pond at theedge of the wood:<br>
