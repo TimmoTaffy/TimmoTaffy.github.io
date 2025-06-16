@@ -5,4 +5,4 @@ date:   2025-06-07 16:00:00 +0800
 categories: computer-unrelated
 ---
 
-## Hello from the other side
+hi there
