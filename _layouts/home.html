@@ -56,29 +56,4 @@ layout: default
       {%- endfor -%}
     </ul>
   {% endif %}
-
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
-
-  <!-- Removed Computer Related Stuff section for now
-  {%- if site.computer_related_stuff.size > 0 -%}
-    <h2 class="post-list-heading">Computer Related Stuff</h2>
-    <ul class="post-list">
-      {%- for item in site.computer_related_stuff -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ item.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ item.url | relative_url }}">
-            {{ item.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ item.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
-  -->
-
 </div>
