@@ -20,7 +20,15 @@ layout: default # Assuming you have a default.html layout, otherwise change to a
   </div>
 
   <div style="margin-top: 200px;"> <!-- Adjust 50px to your desired spacing -->
-    {% include giscus.html %}
+    <!-- Cusdis 评论区 -->
+    <div id="cusdis_thread"
+         data-host="https://cusdis.com"
+         data-app-id="61d9da71-9921-4505-9e62-431f6acc9637" 
+         data-page-id="{{ page.id }}"
+         data-page-url="{{ page.url | absolute_url }}"
+         data-page-title="{{ page.title }}">
+    </div>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
