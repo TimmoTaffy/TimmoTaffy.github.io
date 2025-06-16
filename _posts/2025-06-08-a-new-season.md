@@ -6,5 +6,5 @@ categories: computer-unrelated
 ---
 
 This month, two rains:  
-Seven days.  
+Nine days.  
 Fourteen days.

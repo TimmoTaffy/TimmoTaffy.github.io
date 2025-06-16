@@ -19,11 +19,13 @@ In *Data Structures & Algorithms in Python (Goodrich et al)*, there exists the f
 > ```
 > Experiments should show that the list comprehension syntax is significantly faster than building the list by repeatedly appending (see Exercise C-5.23).
 
-So what is a "shorthand"? Uh? What is a Shorthand?
+So what is a "shorthand"? Uh?
+
+WHAT is a Shorthand?
 
 Lemme tell you, a "shorthand" is supposed to be that chill friend who says "Yooo I'm here to make things easier", not the one who insists on a marathon while you're just trying to enjoy a casual 5k.
 
-List comprehension *is* faster. But did it *really* need to make me feel that bad about my trusty `for` loop? I wasn't asking for a *race* - what I want is just cleaner syntax! Now I feel so bad like I'm being judged every time I write `for i in range`.
+List comprehension *is* faster. But did it *really* need to make me feel that bad about my trusty for loop? I wasn't asking for a *race* - what I want is just cleaner syntax! Now I feel so bad like I'm being judged every time I write `for i in range`.
 
 *Whew...*
 
@@ -36,8 +38,10 @@ print("Cheers")
 ```
 
 
-Following is another duel between `omega(n^2)` and `O(n)`:
+By the way, below is another duel that worth noticing:
 
+
+Instead of doing
 ```python
 # WARNING: omega(n^2), do not do this
 letters =
@@ -47,6 +51,7 @@ for c in document:
                         # references to this string is detected 
 ```
 
+we do
 ```python
 # O(n)
 temp = [ ]
