@@ -35,12 +35,11 @@ Okay, fine, let's give credit where it's due. List comprehension *is* elegant, c
 print("Cheers")
 
 >> Cheers
-```
-
-
+```  
+  
+  
 By the way, below is another duel that worth noticing:
-
-
+  
 Instead of doing
 ```python
 # WARNING: omega(n^2), do not do this
