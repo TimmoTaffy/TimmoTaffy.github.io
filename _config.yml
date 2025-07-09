@@ -33,6 +33,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Header menu links
+header_pages:
+  - about.markdown
+  - contact.markdown
+  - jamfile.markdown
+
 collections:
   computer_related_stuff:
     output: true

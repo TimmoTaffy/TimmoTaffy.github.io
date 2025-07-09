@@ -7,8 +7,10 @@ permalink: /about/
 This is a blog.
 Timmo is a nickname.
 
-The site is powered by Jekyll and integrated with Cusdis for comments.
-I will make the site look better after I learn some HTML.
+The site is powered by Jekyll and integrated with Cusdis for comments.  
+I will make the site look better if I learn some HTML some day.
+  
+----------------------------------------------------------------------------------------
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
