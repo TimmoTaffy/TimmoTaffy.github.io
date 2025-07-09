@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two SAT solvers for the N-Queens Problem"
-date:   2025-06-06 15:15:00 +0800
+date:   2025-06-10 15:15:00 +0800
 categories: computer-related
 ---
 
