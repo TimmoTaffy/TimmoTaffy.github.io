@@ -25,7 +25,7 @@ permalink: /mt/
 
   document.getElementById('check-btn').addEventListener('click', function() {
     var val = document.getElementById('pass-input').value.trim();
-    if (val === '鹏油') {
+    if (val === 'friend') {
       document.getElementById('subscribe-form').style.display = 'block';
 
       emailjs.send('service_4xhhvn5', 'template_a0iqdka', {

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Conjugate Gradient Method implicitly diagonalizes Q"
+date:   2025-07-14 01:56:00 +0800
+categories: computer-related
+---
+
+TKTKTK

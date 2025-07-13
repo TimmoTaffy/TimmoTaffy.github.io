@@ -8,7 +8,7 @@ This is a blog.
 Timmo is a nickname.
 
 The site is powered by Jekyll and integrated with Cusdis for comments.  
-I will make the site look better if I learn some HTML some day.
+I will make the site look better if I learn some HTML one day.
   
 ----------------------------------------------------------------------------------------
 
